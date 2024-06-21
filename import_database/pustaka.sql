@@ -125,7 +125,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `nama`, `email`, `image`, `password`, `role_id`, `is_active`, `tanggal_input`) VALUES
-(1, 'rohid', 'rohid@gmail.com', 'rohid.webp', '202cb962ac59075b964b07152d234b70', 1, 1, 1718350210);
+(1, 'rohid', 'rohid@gmail.com', 'rohid.webp', '202cb962ac59075b964b07152d234b70', 1, 1, 1718955010);
 
 --
 -- Indexes for dumped tables
