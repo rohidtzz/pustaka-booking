@@ -21,6 +21,13 @@
                     <?php
                     $a = 1;
                     foreach ($anggota as $u) { ?>
+                    <?php if($u['is_active'] == 1){
+                            $u['is_active'] = 'Aktif';
+                        }else{
+                            $u['is_active'] = 'Tidak Aktif';
+                        
+                        } 
+                    ?>
                     <tr>
                         <th scope="row"><?= $a++; ?></th>
                         <td><?= $u['nama']; ?></td>
