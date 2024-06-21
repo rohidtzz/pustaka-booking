@@ -3,7 +3,7 @@
     <div class="container my-auto">
         <div class="copyright text-center my-auto">
             <span>Copyright 2024 &copy;  Pustaka-Booking with
-                Bootstrap SB Admin 2 ~ arsyandiaz vito febrian <?= date('Y'); ?></span>
+                Bootstrap SB Admin 2 ~ Rohid Ammar Firdaus <?= date('Y'); ?></span>
         </div>
     </div>
 </footer>
