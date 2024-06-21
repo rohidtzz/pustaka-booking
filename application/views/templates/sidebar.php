@@ -20,11 +20,6 @@
     <li class="nav-item active">
         <!-- Nav Item - Dashboard -->
         <li class="nav-item">
-            <a class="nav-link pb-0" href="<?= base_url('user'); ?>">
-                <i class="fa fa-fw fa-user"></i>
-                <span>Profil</span></a>
-        </li>
-        <li class="nav-item">
             <a class="nav-link pb-0" href="<?= base_url('buku/kategori'); ?>">
                 <i class="fa fa-fw fa-tag"></i>
                 <span>Kategori</span></a>
