@@ -25,7 +25,6 @@
                             $u['is_active'] = 'Aktif';
                         }else{
                             $u['is_active'] = 'Tidak Aktif';
-                        
                         } 
                     ?>
                     <tr>
